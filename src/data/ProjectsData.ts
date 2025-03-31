@@ -101,7 +101,6 @@ export default [
         <ul>
         <li>Debugging online multiplayer issues (errors, desyncs)</li>
         <li>Collaborating with a large development team and multiple domain experts</li>
-        <li></li>
         </ul>
     </div>
 
@@ -196,7 +195,6 @@ export default [
         <li>Physics-based character that loses a segment upon colliding with a wall</li>
         <li>Multiple level features: arrows changing direction, healing items and buttons</li>
         <li>Built for mobile platforms and works with touch input</li>
-        <li></li>
         </ul>
     </div>
 

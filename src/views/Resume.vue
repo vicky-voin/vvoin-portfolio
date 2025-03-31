@@ -96,7 +96,9 @@
         <h3>Other</h3>
         <div class="skill">Git</div>
         <div class="skill">Perforce</div>
-        <div class="skill">JSON</div>
+        <div class="skill">AR</div>
+        <div class="skill">Flexbox</div>
+        <div class="skill">Nunit</div>
         <div class="skill">CI/CD</div>
       </div>
       <div style="clear:both" />
